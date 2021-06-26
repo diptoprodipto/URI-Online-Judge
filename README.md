@@ -1,2 +1,2 @@
 # URI-Online-Judge
-This repository contains solution of URI online Judge problems.
+This repository contains solutions to URI online Judge problems.
